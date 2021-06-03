@@ -1,0 +1,2 @@
+ru/alfabank/eco/tutorial/movie/MovieApplicationTests.java
+ ru.alfabank.eco.tutorial.movie.MovieApplicationTests
